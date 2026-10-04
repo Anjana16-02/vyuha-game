@@ -1,0 +1,1495 @@
+{
+  "profiles": {
+    "c2065c06-5d1a-4c13-9204-ebfe14460845": {
+      "playerId": "c2065c06-5d1a-4c13-9204-ebfe14460845",
+      "username": "Aryan",
+      "kingdomName": "Ashva Hold",
+      "banner": "banner_lion",
+      "level": 2,
+      "xp": 26,
+      "wins": 0,
+      "losses": 2,
+      "totalBattles": 2,
+      "favoriteVyuha": "shakata",
+      "favoriteStrategy": "frontal_assault",
+      "highestArmy": 2000,
+      "bestVictory": 0,
+      "longestBattle": 15.125,
+      "createdAt": 1791104003144,
+      "updatedAt": 1791104199205,
+      "unlockedCommanders": [
+        "war_general",
+        "blade_master",
+        "falcon_commander",
+        "iron_guardian"
+      ],
+      "unlockedWarriors": [
+        "line_spear",
+        "reed_archers",
+        "dust_riders",
+        "tusk_battery",
+        "spoke_chariots",
+        "sun_guard"
+      ],
+      "unlockedCosmetics": [
+        "helm_plain",
+        "armor_leather",
+        "cloak_dust",
+        "sword_ash",
+        "shield_round",
+        "spear_ash",
+        "emblem_wheel"
+      ],
+      "unlockedEnvironments": [
+        "sunlit_plains",
+        "dustfall_warland"
+      ],
+      "equipped": {
+        "helmet": "helm_plain",
+        "armor": "armor_leather",
+        "cloak": "cloak_dust",
+        "weapon": "sword_ash",
+        "shield": "shield_round",
+        "banner": "banner_lion",
+        "emblem": "emblem_wheel"
+      },
+      "kingdomLevel": 1,
+      "medals": 8,
+      "tutorialComplete": false,
+      "colorAccent": "#c9a227"
+    },
+    "4ecf3923-661c-41eb-a45a-8eb68a952f2a": {
+      "playerId": "4ecf3923-661c-41eb-a45a-8eb68a952f2a",
+      "username": "Aryan",
+      "kingdomName": "Ashva Hold",
+      "banner": "banner_lion",
+      "level": 2,
+      "xp": 332,
+      "wins": 1,
+      "losses": 2,
+      "totalBattles": 3,
+      "favoriteVyuha": "padma",
+      "favoriteStrategy": "frontal_assault",
+      "highestArmy": 5000,
+      "bestVictory": 91,
+      "longestBattle": 15.25,
+      "createdAt": 1791104333575,
+      "updatedAt": 1791105033544,
+      "unlockedCommanders": [
+        "war_general",
+        "blade_master",
+        "falcon_commander",
+        "iron_guardian"
+      ],
+      "unlockedWarriors": [
+        "line_spear",
+        "reed_archers",
+        "dust_riders",
+        "tusk_battery",
+        "spoke_chariots",
+        "sun_guard"
+      ],
+      "unlockedCosmetics": [
+        "helm_plain",
+        "armor_leather",
+        "cloak_dust",
+        "sword_ash",
+        "shield_round",
+        "spear_ash",
+        "emblem_wheel"
+      ],
+      "unlockedEnvironments": [
+        "sunlit_plains",
+        "dustfall_warland"
+      ],
+      "equipped": {
+        "helmet": "helm_plain",
+        "armor": "armor_leather",
+        "cloak": "cloak_dust",
+        "weapon": "sword_ash",
+        "shield": "shield_round",
+        "banner": "banner_lion",
+        "emblem": "emblem_wheel"
+      },
+      "kingdomLevel": 1,
+      "medals": 20,
+      "tutorialComplete": true,
+      "colorAccent": "#c9a227"
+    },
+    "8bca7cba-354b-49de-a34e-2fd9d23998ed": {
+      "playerId": "8bca7cba-354b-49de-a34e-2fd9d23998ed",
+      "username": "Aryan",
+      "kingdomName": "Ashva Hold",
+      "banner": "banner_lion",
+      "level": 2,
+      "xp": 168,
+      "wins": 1,
+      "losses": 1,
+      "totalBattles": 2,
+      "favoriteVyuha": "shakata",
+      "favoriteStrategy": "frontal_assault",
+      "highestArmy": 5000,
+      "bestVictory": 86,
+      "longestBattle": 16.0625,
+      "createdAt": 1791104103878,
+      "updatedAt": 1791104749565,
+      "unlockedCommanders": [
+        "war_general",
+        "blade_master",
+        "falcon_commander",
+        "iron_guardian"
+      ],
+      "unlockedWarriors": [
+        "line_spear",
+        "reed_archers",
+        "dust_riders",
+        "tusk_battery",
+        "spoke_chariots",
+        "sun_guard"
+      ],
+      "unlockedCosmetics": [
+        "helm_plain",
+        "armor_leather",
+        "cloak_dust",
+        "sword_ash",
+        "shield_round",
+        "spear_ash",
+        "emblem_wheel"
+      ],
+      "unlockedEnvironments": [
+        "sunlit_plains",
+        "dustfall_warland"
+      ],
+      "equipped": {
+        "helmet": "helm_plain",
+        "armor": "armor_leather",
+        "cloak": "cloak_dust",
+        "weapon": "sword_ash",
+        "shield": "shield_round",
+        "banner": "banner_lion",
+        "emblem": "emblem_wheel"
+      },
+      "kingdomLevel": 1,
+      "medals": 16,
+      "tutorialComplete": false,
+      "colorAccent": "#c9a227"
+    }
+  },
+  "battles": [
+    {
+      "id": "e70dc619-05a3-4850-9714-3effe9dc3fe6",
+      "seed": 3194907824,
+      "startedAt": 1791105033534,
+      "duration": 15.25,
+      "result": "victory",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 5000,
+        "composition": {
+          "infantry": 2500,
+          "archers": 1000,
+          "cavalry": 700,
+          "elephants": 300,
+          "chariots": 300,
+          "elite": 200
+        },
+        "vyuha": "padma",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "strategist",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 5000,
+        "composition": {
+          "infantry": 2060,
+          "archers": 1007,
+          "cavalry": 882,
+          "elephants": 443,
+          "chariots": 418,
+          "elite": 190
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 91,
+      "survivorsPlayer": 3272,
+      "survivorsAi": 3839,
+      "analysis": {
+        "whatHappened": "Aryan Vel held Padma against Lekha Dhi's Makara. Frontal Assault met Defensive Counterattack. After 0:15 the enemy line failed with 24% losses against your 35%.",
+        "turningPoint": "0:07 — Champion meets rival steel.",
+        "whatWorked": "Padma kept more geometry (61 vs 53); Aryan Vel remained a visible spine; volley fire punished approaching ranks.",
+        "whatFailed": "Makara is a known answer to Padma.",
+        "decisiveMoment": "Champion meets rival steel.",
+        "why": "You won because Padma kept more geometry (61 vs 53), while the enemy Makara is a known answer to Padma. Frontal Assault stayed coherent longer than Defensive Counterattack.",
+        "next": "Press a different Vyuha to learn its counters; the AI will not repeat this exact answer.",
+        "strategicScore": 91
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 9.1875,
+          "type": "COMMANDER_THREATENED",
+          "side": "ai",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": 0,
+            "z": 18
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "player",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": -5.720179473318039,
+            "z": 4.07885219847666
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 11.0625,
+          "type": "MAJOR_DUEL",
+          "side": "both",
+          "message": "Champion meets rival steel.",
+          "position": {
+            "x": -3.2522043258567006,
+            "z": 19.742561847435354
+          },
+          "intensity": 1
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 3.1500000000000004,
+            "z": 14
+          },
+          "intensity": 0.75
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 9.1875,
+          "label": "A commander is under blade-light."
+        },
+        {
+          "t": 11.0625,
+          "label": "Champion meets rival steel."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        }
+      ]
+    },
+    {
+      "id": "a11c2f17-e251-46f7-8cc5-9a7fb64c18d5",
+      "seed": 3713579520,
+      "startedAt": 1791104749544,
+      "duration": 14.625,
+      "result": "defeat",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 2000,
+        "composition": {
+          "infantry": 1000,
+          "archers": 400,
+          "cavalry": 280,
+          "elephants": 120,
+          "chariots": 120,
+          "elite": 80
+        },
+        "vyuha": "shakata",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "shadow_commander",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 7000,
+        "composition": {
+          "infantry": 3154,
+          "archers": 1360,
+          "cavalry": 1215,
+          "elephants": 581,
+          "chariots": 618,
+          "elite": 72
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 32,
+      "survivorsPlayer": 131,
+      "survivorsAi": 6709,
+      "analysis": {
+        "whatHappened": "Vira Nisha broke your Shakata using Makara and Defensive Counterattack. You lost 94% of the host; they spent 5%.",
+        "turningPoint": "0:08 — Your Vyuha collapses.",
+        "whatWorked": "volley fire punished approaching ranks.",
+        "whatFailed": "Shakata lost its intended shape; morale slid below a fighting heart; the commander was forced to the blade.",
+        "decisiveMoment": "Your Vyuha collapses.",
+        "why": "You lost because Shakata lost its intended shape, and Vira Nisha used Defensive Counterattack against corners invite encirclement.",
+        "next": "A frontal meeting into a stronger shell rarely pays. Flank or break a single lane.",
+        "strategicScore": 32
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 8.4375,
+          "type": "FORMATION_BREACH",
+          "side": "player",
+          "message": "Your formation is breached.",
+          "position": {
+            "x": 0,
+            "z": -8
+          },
+          "intensity": 0.85
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "player",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": 0.8303490566680385,
+            "z": 6.133613951545838
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 13.0625,
+          "type": "FORMATION_COLLAPSE",
+          "side": "player",
+          "message": "Your Vyuha collapses.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 1
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 7.3500000000000005,
+            "z": 14
+          },
+          "intensity": 0.75
+        },
+        {
+          "t": 14.0625,
+          "type": "MORALE_BREAK",
+          "side": "player",
+          "message": "Your ranks lose their nerve.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 14.1875,
+          "type": "COMMANDER_THREATENED",
+          "side": "player",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": -0.30247981811395613,
+            "z": 7.892715047306381
+          },
+          "intensity": 0.9
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 8.4375,
+          "label": "Your formation is breached."
+        },
+        {
+          "t": 13.0625,
+          "label": "Your Vyuha collapses."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        },
+        {
+          "t": 14.0625,
+          "label": "Your ranks lose their nerve."
+        },
+        {
+          "t": 14.1875,
+          "label": "A commander is under blade-light."
+        }
+      ]
+    },
+    {
+      "id": "d9e54c3b-c1fd-47e0-9192-b015ac3e802a",
+      "seed": 3101130789,
+      "startedAt": 1791104694593,
+      "duration": 16.0625,
+      "result": "victory",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 5000,
+        "composition": {
+          "infantry": 2500,
+          "archers": 1000,
+          "cavalry": 700,
+          "elephants": 300,
+          "chariots": 300,
+          "elite": 200
+        },
+        "vyuha": "padma",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "shadow_commander",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 7000,
+        "composition": {
+          "infantry": 3154,
+          "archers": 1360,
+          "cavalry": 1215,
+          "elephants": 581,
+          "chariots": 618,
+          "elite": 72
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 86,
+      "survivorsPlayer": 2690,
+      "survivorsAi": 5685,
+      "analysis": {
+        "whatHappened": "Aryan Vel held Padma against Vira Nisha's Makara. Frontal Assault met Defensive Counterattack. After 0:16 the enemy line failed with 19% losses against your 47%.",
+        "turningPoint": "0:08 — Horses lengthen their stride.",
+        "whatWorked": "Aryan Vel remained a visible spine.",
+        "whatFailed": "Makara is a known answer to Padma.",
+        "decisiveMoment": "Elephants commit their weight.",
+        "why": "You won because Aryan Vel remained a visible spine, while the enemy Makara is a known answer to Padma. Frontal Assault stayed coherent longer than Defensive Counterattack.",
+        "next": "Press a different Vyuha to learn its counters; the AI will not repeat this exact answer.",
+        "strategicScore": 86
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 9.1875,
+          "type": "COMMANDER_THREATENED",
+          "side": "ai",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": 0,
+            "z": 18
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "ai",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": 3.1500000000000004,
+            "z": 14
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 7.3500000000000005,
+            "z": 14
+          },
+          "intensity": 0.75
+        },
+        {
+          "t": 16.0625,
+          "type": "ELEPHANT_CHARGE",
+          "side": "player",
+          "message": "Elephants commit their weight.",
+          "position": {
+            "x": 5.454864274665765,
+            "z": 4.958612535184788
+          },
+          "intensity": 0.95
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 9.1875,
+          "label": "A commander is under blade-light."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        },
+        {
+          "t": 16.0625,
+          "label": "Elephants commit their weight."
+        }
+      ]
+    },
+    {
+      "id": "377b93a7-618e-40b9-bbd1-9a99d82926e7",
+      "seed": 1929677759,
+      "startedAt": 1791104456880,
+      "duration": 15.125,
+      "result": "defeat",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 2000,
+        "composition": {
+          "infantry": 1000,
+          "archers": 400,
+          "cavalry": 280,
+          "elephants": 120,
+          "chariots": 120,
+          "elite": 80
+        },
+        "vyuha": "shakata",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "iron_guardian",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 7000,
+        "composition": {
+          "infantry": 3817,
+          "archers": 1280,
+          "cavalry": 919,
+          "elephants": 351,
+          "chariots": 499,
+          "elite": 134
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 32,
+      "survivorsPlayer": 130,
+      "survivorsAi": 6634,
+      "analysis": {
+        "whatHappened": "Bhima Rath broke your Shakata using Makara and Defensive Counterattack. You lost 94% of the host; they spent 6%.",
+        "turningPoint": "0:10 — Your Vyuha collapses.",
+        "whatWorked": "volley fire punished approaching ranks.",
+        "whatFailed": "Shakata lost its intended shape; morale slid below a fighting heart.",
+        "decisiveMoment": "Your Vyuha collapses.",
+        "why": "You lost because Shakata lost its intended shape, and Bhima Rath used Defensive Counterattack against corners invite encirclement.",
+        "next": "A frontal meeting into a stronger shell rarely pays. Flank or break a single lane.",
+        "strategicScore": 32
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "player",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": 2.800928462534352,
+            "z": 6.657813002524725
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 10.25,
+          "type": "FORMATION_BREACH",
+          "side": "player",
+          "message": "Your formation is breached.",
+          "position": {
+            "x": 0,
+            "z": -8
+          },
+          "intensity": 0.85
+        },
+        {
+          "t": 13.75,
+          "type": "FORMATION_COLLAPSE",
+          "side": "player",
+          "message": "Your Vyuha collapses.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 1
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 5.25,
+            "z": 14
+          },
+          "intensity": 0.75
+        },
+        {
+          "t": 14.1875,
+          "type": "COMMANDER_THREATENED",
+          "side": "ai",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": 0,
+            "z": 18
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 14.625,
+          "type": "MORALE_BREAK",
+          "side": "player",
+          "message": "Your ranks lose their nerve.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.9
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 10.25,
+          "label": "Your formation is breached."
+        },
+        {
+          "t": 13.75,
+          "label": "Your Vyuha collapses."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        },
+        {
+          "t": 14.1875,
+          "label": "A commander is under blade-light."
+        },
+        {
+          "t": 14.625,
+          "label": "Your ranks lose their nerve."
+        }
+      ]
+    },
+    {
+      "id": "74566887-c277-4563-b1bd-da61b875bde5",
+      "seed": 1957369826,
+      "startedAt": 1791104378996,
+      "duration": 15.0625,
+      "result": "defeat",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 2000,
+        "composition": {
+          "infantry": 1000,
+          "archers": 400,
+          "cavalry": 280,
+          "elephants": 120,
+          "chariots": 120,
+          "elite": 80
+        },
+        "vyuha": "shakata",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "iron_guardian",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 7000,
+        "composition": {
+          "infantry": 3817,
+          "archers": 1280,
+          "cavalry": 919,
+          "elephants": 351,
+          "chariots": 499,
+          "elite": 134
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 33,
+      "survivorsPlayer": 138,
+      "survivorsAi": 6630,
+      "analysis": {
+        "whatHappened": "Bhima Rath broke your Shakata using Makara and Defensive Counterattack. You lost 93% of the host; they spent 6%.",
+        "turningPoint": "0:10 — Your Vyuha collapses.",
+        "whatWorked": "volley fire punished approaching ranks.",
+        "whatFailed": "Shakata lost its intended shape; morale slid below a fighting heart.",
+        "decisiveMoment": "Your Vyuha collapses.",
+        "why": "You lost because Shakata lost its intended shape, and Bhima Rath used Defensive Counterattack against corners invite encirclement.",
+        "next": "A frontal meeting into a stronger shell rarely pays. Flank or break a single lane.",
+        "strategicScore": 33
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "player",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": 2.8022279836213593,
+            "z": 6.585574692991586
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 10.25,
+          "type": "FORMATION_BREACH",
+          "side": "player",
+          "message": "Your formation is breached.",
+          "position": {
+            "x": 0,
+            "z": -8
+          },
+          "intensity": 0.85
+        },
+        {
+          "t": 13.75,
+          "type": "FORMATION_COLLAPSE",
+          "side": "player",
+          "message": "Your Vyuha collapses.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 1
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 5.25,
+            "z": 14
+          },
+          "intensity": 0.75
+        },
+        {
+          "t": 14.125,
+          "type": "COMMANDER_THREATENED",
+          "side": "ai",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": 0,
+            "z": 18
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 14.8125,
+          "type": "MORALE_BREAK",
+          "side": "player",
+          "message": "Your ranks lose their nerve.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.9
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 10.25,
+          "label": "Your formation is breached."
+        },
+        {
+          "t": 13.75,
+          "label": "Your Vyuha collapses."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        },
+        {
+          "t": 14.125,
+          "label": "A commander is under blade-light."
+        },
+        {
+          "t": 14.8125,
+          "label": "Your ranks lose their nerve."
+        }
+      ]
+    },
+    {
+      "id": "fbc340df-4e31-4a46-8bd7-216c80aadcf8",
+      "seed": 1425151887,
+      "startedAt": 1791104199197,
+      "duration": 15.125,
+      "result": "defeat",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 2000,
+        "composition": {
+          "infantry": 1000,
+          "archers": 400,
+          "cavalry": 280,
+          "elephants": 120,
+          "chariots": 120,
+          "elite": 80
+        },
+        "vyuha": "shakata",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "strategist",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 6000,
+        "composition": {
+          "infantry": 2589,
+          "archers": 1259,
+          "cavalry": 668,
+          "elephants": 419,
+          "chariots": 327,
+          "elite": 738
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 32,
+      "survivorsPlayer": 130,
+      "survivorsAi": 5645,
+      "analysis": {
+        "whatHappened": "Lekha Dhi broke your Shakata using Makara and Defensive Counterattack. You lost 94% of the host; they spent 7%.",
+        "turningPoint": "0:09 — Your Vyuha collapses.",
+        "whatWorked": "volley fire punished approaching ranks.",
+        "whatFailed": "Shakata lost its intended shape; morale slid below a fighting heart.",
+        "decisiveMoment": "Your Vyuha collapses.",
+        "why": "You lost because Shakata lost its intended shape, and Lekha Dhi used Defensive Counterattack against corners invite encirclement.",
+        "next": "A frontal meeting into a stronger shell rarely pays. Flank or break a single lane.",
+        "strategicScore": 32
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 9.625,
+          "type": "FORMATION_BREACH",
+          "side": "player",
+          "message": "Your formation is breached.",
+          "position": {
+            "x": 0,
+            "z": -8
+          },
+          "intensity": 0.85
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "player",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": 2.7906046890687266,
+            "z": 6.547866866703003
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 13.8125,
+          "type": "FORMATION_COLLAPSE",
+          "side": "player",
+          "message": "Your Vyuha collapses.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 1
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 5.25,
+            "z": 14
+          },
+          "intensity": 0.75
+        },
+        {
+          "t": 14.25,
+          "type": "COMMANDER_THREATENED",
+          "side": "ai",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": 0,
+            "z": 18
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 14.6875,
+          "type": "MORALE_BREAK",
+          "side": "player",
+          "message": "Your ranks lose their nerve.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.9
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 9.625,
+          "label": "Your formation is breached."
+        },
+        {
+          "t": 13.8125,
+          "label": "Your Vyuha collapses."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        },
+        {
+          "t": 14.25,
+          "label": "A commander is under blade-light."
+        },
+        {
+          "t": 14.6875,
+          "label": "Your ranks lose their nerve."
+        }
+      ]
+    },
+    {
+      "id": "348be494-ee9d-44af-910a-fa43ae19aa08",
+      "seed": 3236763956,
+      "startedAt": 1791104166291,
+      "duration": 15.0625,
+      "result": "defeat",
+      "player": {
+        "commanderId": "war_general",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "sun_guard"
+        ],
+        "armySize": 2000,
+        "composition": {
+          "infantry": 1000,
+          "archers": 400,
+          "cavalry": 280,
+          "elephants": 120,
+          "chariots": 120,
+          "elite": 80
+        },
+        "vyuha": "shakata",
+        "strategy": "frontal_assault",
+        "cosmetics": {}
+      },
+      "ai": {
+        "commanderId": "strategist",
+        "warriorIds": [
+          "line_spear",
+          "reed_archers",
+          "dust_riders",
+          "tusk_battery"
+        ],
+        "armySize": 6000,
+        "composition": {
+          "infantry": 2589,
+          "archers": 1259,
+          "cavalry": 668,
+          "elephants": 419,
+          "chariots": 327,
+          "elite": 738
+        },
+        "vyuha": "makara",
+        "strategy": "defensive_counterattack",
+        "cosmetics": {}
+      },
+      "environment": "sunlit_plains",
+      "timeOfDay": "afternoon",
+      "weather": "clear",
+      "score": 33,
+      "survivorsPlayer": 136,
+      "survivorsAi": 5646,
+      "analysis": {
+        "whatHappened": "Lekha Dhi broke your Shakata using Makara and Defensive Counterattack. You lost 93% of the host; they spent 7%.",
+        "turningPoint": "0:09 — Your Vyuha collapses.",
+        "whatWorked": "volley fire punished approaching ranks.",
+        "whatFailed": "Shakata lost its intended shape; morale slid below a fighting heart.",
+        "decisiveMoment": "Your Vyuha collapses.",
+        "why": "You lost because Shakata lost its intended shape, and Lekha Dhi used Defensive Counterattack against corners invite encirclement.",
+        "next": "A frontal meeting into a stronger shell rarely pays. Flank or break a single lane.",
+        "strategicScore": 33
+      },
+      "events": [
+        {
+          "t": 0,
+          "type": "DEPLOYMENT",
+          "side": "both",
+          "message": "Armies take their ground.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.4
+        },
+        {
+          "t": 0,
+          "type": "ADVANCE",
+          "side": "both",
+          "message": "The lines begin to move.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.5
+        },
+        {
+          "t": 4,
+          "type": "REGROUP",
+          "side": "ai",
+          "message": "Enemy shifts to Defensive Counterattack.",
+          "position": {
+            "x": 0,
+            "z": 16
+          },
+          "intensity": 0.55
+        },
+        {
+          "t": 9.6875,
+          "type": "FORMATION_BREACH",
+          "side": "player",
+          "message": "Your formation is breached.",
+          "position": {
+            "x": 0,
+            "z": -8
+          },
+          "intensity": 0.85
+        },
+        {
+          "t": 10.0625,
+          "type": "ARCHER_VOLLEY",
+          "side": "player",
+          "message": "Arrows darken a lane.",
+          "position": {
+            "x": 2.7933758584186053,
+            "z": 6.367263152308511
+          },
+          "intensity": 0.45
+        },
+        {
+          "t": 13.8125,
+          "type": "FORMATION_COLLAPSE",
+          "side": "player",
+          "message": "Your Vyuha collapses.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 1
+        },
+        {
+          "t": 14.0625,
+          "type": "CAVALRY_CHARGE",
+          "side": "ai",
+          "message": "Horses lengthen their stride.",
+          "position": {
+            "x": 5.25,
+            "z": 14
+          },
+          "intensity": 0.75
+        },
+        {
+          "t": 14.375,
+          "type": "COMMANDER_THREATENED",
+          "side": "ai",
+          "message": "A commander is under blade-light.",
+          "position": {
+            "x": 0,
+            "z": 18
+          },
+          "intensity": 0.9
+        },
+        {
+          "t": 14.75,
+          "type": "MORALE_BREAK",
+          "side": "player",
+          "message": "Your ranks lose their nerve.",
+          "position": {
+            "x": 0,
+            "z": 0
+          },
+          "intensity": 0.9
+        }
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "label": "The lines begin to move."
+        },
+        {
+          "t": 4,
+          "label": "Enemy shifts to Defensive Counterattack."
+        },
+        {
+          "t": 9.6875,
+          "label": "Your formation is breached."
+        },
+        {
+          "t": 13.8125,
+          "label": "Your Vyuha collapses."
+        },
+        {
+          "t": 14.0625,
+          "label": "Horses lengthen their stride."
+        },
+        {
+          "t": 14.375,
+          "label": "A commander is under blade-light."
+        },
+        {
+          "t": 14.75,
+          "label": "Your ranks lose their nerve."
+        }
+      ]
+    }
+  ],
+  "achievements": {},
+  "kingdom": {},
+  "inventory": {}
+}
